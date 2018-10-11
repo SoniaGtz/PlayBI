@@ -11,6 +11,6 @@ Pendientes:
 
 4. Analisis de las señales
 
-5. Sprit (imenus, botones)
+5. Sprites (menus, botones)
 
 6. Documentacion 
